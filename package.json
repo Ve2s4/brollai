@@ -9,20 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@designcombo/events": "0.1.2",
+    "@designcombo/timeline": "0.1.2",
     "@radix-ui/react-avatar": "^1.1.7",
     "@radix-ui/react-collapsible": "^1.1.8",
     "@radix-ui/react-dialog": "^1.1.11",
     "@radix-ui/react-dropdown-menu": "^2.1.12",
+    "@radix-ui/react-scroll-area": "^1.2.9",
     "@radix-ui/react-separator": "^1.1.4",
     "@radix-ui/react-slot": "^1.2.0",
     "@radix-ui/react-tooltip": "^1.2.4",
+    "@remotion/player": "^4.0.312",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.503.0",
     "next": "15.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "tailwind-merge": "^3.2.0"
+    "react-dropzone": "^14.3.8",
+    "react-wrap-balancer": "^1.1.1",
+    "remotion": "^4.0.312",
+    "rxjs": "^7.8.2",
+    "tailwind-merge": "^3.2.0",
+    "zustand": "^5.0.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
